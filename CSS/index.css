@@ -18,3 +18,10 @@ h3{
 .tab{
   color: #f1fcfc;
 }
+.photoshop{
+ height: 50%;
+  width: 50%;
+}
+.profile{
+  border-radius: 100%;
+}
