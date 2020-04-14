@@ -8,6 +8,7 @@ hr{
 }
 body{
   background-color: #f1fcfc;
+  margin:0;
 }
 .tab{
   background-color: #5b8c85;
@@ -17,6 +18,7 @@ h3{
 }
 .tab{
   color: #f1fcfc;
+  
 }
 .photoshop{
  height: 50%;
@@ -27,6 +29,7 @@ h3{
 }
 h1{
   font-size: 50px;
+  margin-top: 0;
 }
 i:hover{
   color: black;
