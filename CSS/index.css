@@ -25,3 +25,17 @@ h3{
 .profile{
   border-radius: 100%;
 }
+h1{
+  font-size: 50px;
+}
+i:hover{
+  color: black;
+}
+i{
+  color: #f1fcfc;
+
+}
+.hv:hover{
+  color: black;
+  background-color:#5b8c85 ;
+}
