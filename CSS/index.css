@@ -11,17 +11,14 @@ hr{
 body{
   background-color: #f1fcfc;
   margin:0;
-  text-align:center;
 }
 .tab{
   background-color: #5b8c85;
+  color: #f1fcfc;
   padding: 20px;
 }
 h3{
   color: #5b8c85;
-}
-.tab{
-  color: #f1fcfc;
   
 }
 .photoshop{
@@ -46,6 +43,4 @@ i{
   color: black;
   background-color:#5b8c85 ;
 }
-table(
-align: center;
-}
+
