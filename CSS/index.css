@@ -64,6 +64,7 @@ i{
   position: absolute;
   left: 0;
   right: 0;
+  bottom: 0;
   background-color: #5b8c85;
   color: #f1fcfc;
   padding-left: 50px;
