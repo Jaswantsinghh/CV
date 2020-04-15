@@ -27,8 +27,8 @@ h3{
 }
 .profile{
   border-radius: 100%;
-  height: 80px;
-  width: 100px;
+  height: 100px;
+  width: 140px;
 }
 h1{
   font-size: 30px;
@@ -61,7 +61,7 @@ i{
   left: 0;
   background-color: #5b8c85;
   color: #f1fcfc;
-  padding-left: 50px;
+  padding-left: 30px;
   padding-top: 20px;
 
 }
